@@ -40,6 +40,6 @@ array.uniq
 array.flatten(2)
   end
 
-def using_delete(array)
-  array.delete(2)
+def using_delete(array,string)
+  array.delete(string)
 end

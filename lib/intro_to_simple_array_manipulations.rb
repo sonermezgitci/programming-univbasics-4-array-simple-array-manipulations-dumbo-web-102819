@@ -42,3 +42,4 @@ array.flatten(2)
 
 def using_delete(array,string)
   array.delete(2,string)
+end

@@ -36,6 +36,6 @@ array.insert(4,element)
 array.uniq
   end
 
-  def using_flatten(array,string)
+  def using_flatten(array)
 array.flatten(2)
   end

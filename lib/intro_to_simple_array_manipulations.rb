@@ -39,3 +39,6 @@ array.uniq
   def using_flatten(array)
 array.flatten(2)
   end
+
+def using_delete(array,string)
+  array.delete =(string)

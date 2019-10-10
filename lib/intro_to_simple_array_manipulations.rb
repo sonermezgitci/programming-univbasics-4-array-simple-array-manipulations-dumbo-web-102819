@@ -28,6 +28,6 @@ def shift_with_args (array)
     a.concat(b)
   end
 
-  def using_insert(array)
-array.insert = [4]
+  def using_insert(array,element)
+element.insert =(array)
   end
